@@ -4,10 +4,6 @@ Prototipo mecatrónico que identifica, localiza y transporta cajas de un anaquel
 
 Prototipo mecatrónico que identifica, localiza y transporta cajas con componentes eléctricos almacenadas en un anaquel de nueve posiciones. Una cámara fija y una red neuronal YOLO26 reconocen la figura geométrica de cada caja; un ESP32 mueve un brazo robótico de 4 grados de libertad que toma la caja y la deposita en una banda transportadora controlada con sensores infrarrojos.
 
-* **Institución:** Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL).
-* **Asignatura:** Percepción (Producto Integrador de Aprendizaje, Actividad Fundamental 3).
-* **Profesor:** Dr. Erick de Jesús Ordaz Rivas.
-
 ---
 
 ## 1. Problema
